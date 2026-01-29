@@ -19,7 +19,7 @@
 
 ## 🔭 What I'm Working On
 
-**Master's Thesis** @ TUM Chair of Software Engineering & AI  
+**Master's Thesis** @ TUM [Chair of Software Engineering & AI](https://www.cs.cit.tum.de/en/seai/homepage/)  
 *Agentic Regression Bug Testing for GUI Applications*
 
 Building a VLM-based agent that can autonomously bisect regression bugs in open-source software. The goal: extend Mozilla's `mozregression` approach to work with *any* GUI application, using computer-use agents to visually identify and isolate UI regressions.
