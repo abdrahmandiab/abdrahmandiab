@@ -26,6 +26,7 @@
   
   Think: an AI that can tell you "the bug was introduced in commit #xxxxx" by actually *using* the software across versions.
 
+**Expected end date:** Summer Semester 2026 (Extensible to WS27)
 ---
 
 ## 🛠️ Background
@@ -49,17 +50,18 @@ Previously: ML Engineer at [Ivy](https://github.com/ivy-llc/ivy) (framework tran
 
 | Document | Link |
 |----------|------|
-| 📝 CV | [View CV](./CV_Apple.pdf) |
-| 🎓 TUM Transcript | [View Transcript](./Leistungsnachweis_03795681_22012026_1329_20260122132941_1.pdf) |
-| 🎓 GUC Transcript | [View Transcript](./GUC_TranscriptBSc.pdf) |
+| 📝 CV | [View CV](./CV.pdf) |
+| 🎓 TUM Transcript: 88(+30)/120 ECTS| [Transcript up to SS25](./TUM_Transcript(MSc).pdf) |
+| 🎓 GUC Transcript: (Completed) | [Transcript](./GUC_Transcript(BSc).pdf) |
 
 ---
 
-## 🎸 Beyond Code
+## 🎲 Beyond Code
 
 When I'm not coding, you might find me:
 
 - 🎸 Playing guitar (performed sold-out shows in Cairo with my band *Skeleton Clique*)
+- 🐉 Leading my team to imminent danger in Dungeons n Dragons
 - 📈 Reading about economics and marketing
 
 ---
