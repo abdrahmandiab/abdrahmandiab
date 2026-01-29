@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi, I'm Abdelrahman 👋
 
-<!--
-**abdrahmandiab/abdrahmandiab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 **Munich, Germany** | 🎓 **M.Sc. Informatics @ TUM** | 🤖 **ML Engineer**
 
-Here are some ideas to get you started:
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org)
+[![GStreamer](https://img.shields.io/badge/-GStreamer-FF0000?style=flat-square&logo=gstreamer&logoColor=white)](https://gstreamer.freedesktop.org)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+> Currently exploring **agentic AI** and how LLMs can autonomously interact with software.
+
+---
+
+## 🔭 What I'm Working On
+
+**Master's Thesis** @ TUM Chair of Software Engineering & AI  
+*Agentic Regression Bug Testing for GUI Applications*
+
+Building a VLM-based agent that can autonomously bisect regression bugs in open-source software. The goal: extend Mozilla's `mozregression` approach to work with *any* GUI application, using computer-use agents to visually identify and isolate UI regressions.
+
+Think: an AI that can tell you "the bug was introduced in commit #xxxxx" by actually *using* the software across versions.
+
+---
+
+## 🛠️ Background
+
+I'm a generalist who's worked across the stack:
+
+| Domain | What I've Done |
+|--------|----------------|
+| **ML/CV** | Pose estimation, model compression (APC on LLaMA), depth estimation for autonomous vehicles |
+| **Streaming** | GStreamer pipelines, WebRTC, real-time A/V for live music (TapGig) |
+| **Backend** | Spring Boot microservices, Ruby on Rails, distributed systems |
+| **DevOps** | Docker, Kubernetes, CI/CD, AWS Lambda |
+| **Compilers** | Built one from scratch! |
+| **Algorithms** | Expertise in Algorithm design and Complexity analysis | 
+
+Previously: ML Engineer at [Ivy](https://github.com/ivy-llc/ivy) (framework transpiler) and [Logivations](https://logivations.com) (warehouse tracking).
+
+---
+
+## 📄 Documents
+
+| Document | Link |
+|----------|------|
+| 📝 CV | [View CV](./CV_Apple.pdf) |
+| 🎓 TUM Transcript | [View Transcript](./Leistungsnachweis_03795681_22012026_1329_20260122132941_1.pdf) |
+| 🎓 GUC Transcript | [View Transcript](./GUC_TranscriptBSc.pdf) |
+
+---
+
+## 🎸 Beyond Code
+
+When I'm not coding, you might find me:
+
+- 🎸 Playing guitar (performed sold-out shows in Cairo with my band *Skeleton Clique*)
+- 📈 Reading about economics and marketing
+
+---
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/-abdelrahman--diab1-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-diab1/)
+[![Email](https://img.shields.io/badge/-abdrahmandiab99@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdrahmandiab99@gmail.com)
+
+---
+
+<sub>📍 Munich | 🗣️ Arabic (native), English (fluent), German (B1)</sub>
