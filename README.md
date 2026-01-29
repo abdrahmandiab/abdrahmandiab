@@ -18,15 +18,17 @@
 ---
 
 ## 🔭 What I'm Working On
+### Master of Science in Informatics at Technische Universität München (TUM)
 
 **Master's Thesis** @ TUM [Chair of Software Engineering & AI](https://www.cs.cit.tum.de/en/seai/homepage/)  
-### Agentic Regression Bug Testing for GUI Applications
+#### Topic: Agentic Regression Bug Testing for GUI Applications
   
   Building a VLM-based agent that can autonomously bisect regression bugs in open-source software. The goal: extend Mozilla's `mozregression` approach to work with *any* GUI application, using computer-use agents to visually identify and isolate UI regressions.
   
   Think: an AI that can tell you "the bug was introduced in commit #xxxxx" by actually *using* the software across versions.
+  
+  **Expected end date for Masters Program:** Summer Semester 2026 (Extensible to WS27)
 
-**Expected end date:** Summer Semester 2026 (Extensible to WS27)
 ---
 
 ## 🛠️ Background
