@@ -44,7 +44,9 @@ I'm a generalist who's worked across the stack:
 | **Compilers** | Built one from scratch! |
 | **Algorithms** | Expertise in Algorithm design and Complexity analysis | 
 
-Previously: ML Engineer at [Ivy](https://github.com/ivy-llc/ivy) (framework transpiler) and [Logivations](https://logivations.com) (warehouse tracking).
+### Work Experience
+- Previously: ML Engineer at [Ivy](https://github.com/ivy-llc/ivy) (Jax ↔️ PyTorch ↔️ TensorFlow ↔️ Numpy framework transpiler)
+- Currently: Working Student - ML Engineer [Logivations](https://logivations.com) (warehouse tracking).
 
 ---
 
