@@ -72,7 +72,7 @@ When I'm not coding, you might find me:
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/-abdelrahman--diab1-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-diab1/)
+[![LinkedIn](https://img.shields.io/badge/-abdrahmandiab-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdrahmandiab/)
 [![Email](https://img.shields.io/badge/-abdrahmandiab99@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdrahmandiab99@gmail.com)
 
 ---
