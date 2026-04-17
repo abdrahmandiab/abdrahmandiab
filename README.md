@@ -43,7 +43,7 @@ I'm a generalist who's worked across the stack:
 | **Streaming** | GStreamer pipelines, WebRTC, real-time A/V for live music (TapGig) |
 | **Backend** | Spring Boot microservices, Ruby on Rails, distributed systems |
 | **DevOps** | Docker, Kubernetes, CI/CD, AWS Lambda |
-| **Compilers** | Built one from scratch! |
+| **Compilers** | Silent brag, the `A` on that Compilers course |
 | **Algorithms** | Expertise in Algorithm design and Complexity analysis | 
 
 ### Work Experience
