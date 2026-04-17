@@ -1,6 +1,6 @@
 # Hi, I'm Abdelrahman 👋
 
-📍 **Munich, Germany** | 🎓 **M.Sc. Informatics @ TUM** | 🤖 **ML Engineer**
+📍 **Munich, Germany** | 🎓 **M.Sc. Informatics @ TUM** | 🤖 **Agent/ML Engineer**
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
@@ -13,7 +13,7 @@
 
 ---
 
-> Currently exploring **agentic AI** and how LLMs can autonomously interact with software.
+> Currently exploring **agentic AI**.
 
 ---
 
@@ -23,9 +23,11 @@
 **Master's Thesis** @ TUM [Chair of Software Engineering & AI](https://www.cs.cit.tum.de/en/seai/homepage/)  
 #### Topic: Agentic Regression Bug Testing for GUI Applications
   
-  Building a VLM-based agent that can autonomously bisect regression bugs in open-source software. The goal: extend Mozilla's `mozregression` approach to work with *any* GUI application, using computer-use agents to visually identify and isolate UI regressions.
+  - Building a VLM-based agent that can autonomously bisect regression bugs in open-source software. 
   
-  Think: an AI that can tell you "the bug was introduced in commit #xxxxx" by actually *using* the software across versions.
+  - The goal: extend Mozilla's `mozregression` approach to work with *any* GUI application, using computer-use agents to visually identify and isolate UI regressions.
+  
+  - Think: an AI that can tell you "the bug was introduced in commit #xxxxx" by actually *using* the software across versions.
   
   **Expected end date for Masters Program:** Summer Semester 2026 (Extensible to WS27)
 
@@ -65,7 +67,7 @@ I'm a generalist who's worked across the stack:
 When I'm not coding, you might find me:
 
 - 🎸 Playing guitar (performed sold-out shows in Cairo with my band *Skeleton Clique*)
-- 🐉 Leading my team to imminent danger in Dungeons n Dragons
+- 🐉 Leading my team to imminent danger in Dungeons and Dragons
 - 📈 Reading about economics and marketing
 
 ---
