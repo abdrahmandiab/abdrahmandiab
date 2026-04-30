@@ -55,7 +55,6 @@ I'm a generalist who's worked across the stack:
 
 | Document | Link |
 |----------|------|
-| 📝 CV | [View CV](./CV.pdf) |
 | 🎓 TUM Transcript: 88(+30)/120 ECTS| [Transcript up to SS25](./TUM_Transcript(MSc).pdf) |
 | 🎓 GUC Transcript: (Completed) | [Transcript](./GUC_Transcript(BSc).pdf) |
 
