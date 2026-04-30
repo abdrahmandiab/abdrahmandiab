@@ -38,7 +38,7 @@ I'm a generalist who's worked across the stack:
 |--------|----------------|
 | **ML/CV** | Pose estimation, model compression (APC on LLaMA), depth estimation for autonomous vehicles |
 | **Streaming** | GStreamer pipelines, WebRTC, real-time A/V for live music (with [TapGig](https://tapgig.live/)) |
-| **Backend** | Spring Boot/Rust microservices, Ruby on Rails |
+| **Backend** | Spring Boot/Rust microservices, Ruby on Rails, FastAPI |
 | **DevOps** | Docker, Kubernetes, CI/CD, AWS Lambda |
 | **Compilers** | Humble brag, the `A` on that Compilers course |
 | **Algorithms** | See my [neetcode.io](https://github.com/abdrahmandiab/neetcode-submissions) submissions | 
