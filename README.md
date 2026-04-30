@@ -3,10 +3,9 @@
 📍 **Munich, Germany** | 🎓 **M.Sc. Informatics @ TUM** | 🤖 **Agent/ML Engineer**
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![Rust](https://img.shields.io/badge/Rust-A04040?logo=rust&logoColor=white)](https://docker.com)
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org)
 [![GStreamer](https://img.shields.io/badge/-GStreamer-FF0000?style=flat-square&logo=gstreamer&logoColor=white)](https://gstreamer.freedesktop.org)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
 
