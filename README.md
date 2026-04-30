@@ -26,8 +26,6 @@
   
   - The goal: extend Mozilla's `mozregression` approach to work with *any* GUI application, using computer-use agents to visually identify and isolate UI regressions.
   
-  - Think: an AI that can tell you "the bug was introduced in commit #xxxxx" by actually *using* the software across versions.
-  
   **Expected end date for Masters Program:** Summer Semester 2026 (Extensible to WS27)
 
 ---
@@ -39,14 +37,14 @@ I'm a generalist who's worked across the stack:
 | Domain | What I've Done |
 |--------|----------------|
 | **ML/CV** | Pose estimation, model compression (APC on LLaMA), depth estimation for autonomous vehicles |
-| **Streaming** | GStreamer pipelines, WebRTC, real-time A/V for live music (TapGig) |
-| **Backend** | Spring Boot microservices, Ruby on Rails, distributed systems |
+| **Streaming** | GStreamer pipelines, WebRTC, real-time A/V for live music (with [TapGig](https://tapgig.live/)) |
+| **Backend** | Spring Boot/Rust microservices, Ruby on Rails |
 | **DevOps** | Docker, Kubernetes, CI/CD, AWS Lambda |
-| **Compilers** | Silent brag, the `A` on that Compilers course |
-| **Algorithms** | Expertise in Algorithm design and Complexity analysis | 
+| **Compilers** | Humble brag, the `A` on that Compilers course |
+| **Algorithms** | See my [neetcode.io](https://github.com/abdrahmandiab/neetcode-submissions) submissions | 
 
 ### Work Experience
-- Previously: ML Engineer at [Ivy](https://github.com/ivy-llc/ivy) (Jax ↔️ PyTorch ↔️ TensorFlow ↔️ Numpy framework transpiler)
+- Previously: ML Engine Engineer at [Ivy](https://github.com/ivy-llc/ivy) (Jax ↔️ PyTorch ↔️ TensorFlow ↔️ Numpy ML framework transpiler)
 - Currently: Working Student - ML Engineer [Logivations](https://logivations.com) (warehouse tracking).
 
 ---
