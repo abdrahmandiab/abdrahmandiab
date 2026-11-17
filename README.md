@@ -38,8 +38,11 @@ I'm a generalist who's worked across the stack:
 | **Algorithms** | See my [neetcode.io](https://github.com/abdrahmandiab/neetcode-submissions) submissions | 
 
 ### Work Experience
-- Previously: ML Engine Engineer at [Ivy](https://github.com/ivy-llc/ivy) (Jax ↔️ PyTorch ↔️ TensorFlow ↔️ Numpy ML framework transpiler)
-- Currently: Working Student - ML Engineer [Logivations](https://logivations.com) (warehouse tracking).
+- Previously: 
+  - MLE @ [Ivy](https://github.com/ivy-llc/ivy) (Jax ↔️ PyTorch ↔️ TensorFlow ↔️ Numpy ML framework transpiler)
+  - MLE Working Student - [Logivations](https://logivations.com) (Warehouse Tracking & Digital Twin Tech).
+- Currently:
+  - Software Consultant @ Netlight 🦄
 
 ---
 
