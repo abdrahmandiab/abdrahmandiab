@@ -1,6 +1,6 @@
 # Hi, I'm Abdelrahman 👋
 
-📍 **Munich, Germany** | 🎓 **M.Sc. Informatics @ TUM** | 🤖 **Agent/ML Engineer**
+📍 **Munich, Germany** | 🦄 Applied AI Specialist Consultant @ Netlight | 🎓 **M.Sc. Informatics @ TUM** |
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![Rust](https://img.shields.io/badge/Rust-A04040?logo=rust&logoColor=white)](https://docker.com)
@@ -21,12 +21,6 @@
 
 **Master's Thesis** @ TUM [Chair of Software Engineering & AI](https://www.cs.cit.tum.de/en/seai/homepage/)  
 #### Topic: Agentic Regression Bug Testing for GUI Applications
-  
-  - Building a VLM-based agent that can autonomously bisect regression bugs in open-source software. 
-  
-  - The goal: extend Mozilla's `mozregression` approach to work with *any* GUI application, using computer-use agents to visually identify and isolate UI regressions.
-  
-  **Expected end date for Masters Program:** Summer Semester 2026 (Extensible to WS27)
 
 ---
 
@@ -53,8 +47,8 @@ I'm a generalist who's worked across the stack:
 
 | Document | Link |
 |----------|------|
-| 🎓 TUM Transcript: 88(+30)/120 ECTS| [Transcript up to SS25](./TUM_Transcript(MSc).pdf) |
-| 🎓 GUC Transcript: (Completed) | [Transcript](./GUC_Transcript(BSc).pdf) |
+| 🎓 TUM Transcript | [Transcript up to SS25](./TUM_Transcript(MSc).pdf) |
+| 🎓 GUC Transcript | [Transcript](./GUC_Transcript(BSc).pdf) |
 
 ---
 
@@ -75,4 +69,4 @@ When I'm not coding, you might find me:
 
 ---
 
-<sub>📍 Munich | 🗣️ Arabic (native), English (fluent), German (B1)</sub>
+<sub> 🗣️ Arabic (native), English (fluent), German (B1)</sub>
